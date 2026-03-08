@@ -64,7 +64,7 @@ npm install -g docsify-cli
 cd 项目目录
 docsify serve .
 ```
-
+### 访问 GitHub Pages 查看笔记：https://jungerhs.github.io/learn/
 然后在浏览器中打开 `http://localhost:3000`
 
 ## 📝 说明
